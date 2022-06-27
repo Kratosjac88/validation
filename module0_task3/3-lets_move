@@ -1,1 +1,1 @@
-mv /tmp/u *[A-Z]* /home/johan/module0_task3
+mv  *[A-Z]* /tmp/u
