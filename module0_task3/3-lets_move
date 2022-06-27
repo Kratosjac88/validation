@@ -1,1 +1,1 @@
-mv src/*[A-Z]* /tmp/u
+mv /tmp/u *[A-Z]* /home/johan/module0_task3
