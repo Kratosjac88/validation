@@ -1,6 +1,6 @@
-COUNTER=0
-while [ $COUNTER -lt 10 ]
+x=1
+while [ $x -le 10 ]
 do
-    echo "DevOps"
-    let COUNTER=COUNTER+1
+  echo "DevOps"
+  x=$(( $x + 1 ))
 done
